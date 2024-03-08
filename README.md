@@ -19,7 +19,7 @@
 - I am struggling with the little tasks
 - This sums up to **Hangry**
 
-**I am quite confused**
+~~**I am quite confused**~~
 
 *Just following the steps*
 
